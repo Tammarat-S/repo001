@@ -4,8 +4,13 @@ int main(){
    int i = 0 ;
     while (  i < 100 ) 
     {
+
         gets(iga) ;
         i++ ;
+
+        printf( "hosekhps " ) ;
+        i++ ; 
+
     }
     
     return 0 ;
