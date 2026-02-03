@@ -1,3 +1,6 @@
 # repo001
-00000
+สวัสดีครับ
+ty
+tu
+ok
 Hellloooo
